@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"AutoFileName",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"ExpandRegion",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"Nodejs",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter-contrib-eslint",
+		"Swig",
+		"SyncedSidebarBg",
+		"Terminal",
+		"zz File Icons"
+	]
+}
