@@ -8,7 +8,6 @@
 		"AdvancedNewFile",
 		"Alignment",
 		"AutoFileName",
-		"Boxy Theme",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"DocBlockr",
@@ -24,8 +23,8 @@
 		"Stylus",
 		"SublimeLinter-contrib-eslint",
 		"Swig",
-		"SyncedSidebarBg",
 		"Terminal",
+		"Tomorrow Color Schemes",
 		"zz File Icons"
 	]
 }
