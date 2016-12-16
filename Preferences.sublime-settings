@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Consolas",
@@ -8,5 +8,6 @@
 	[
 		"Vintage"
 	],
-	"tab_size": 2
+	"tab_size": 2,
+	"theme": "Default.sublime-theme"
 }
