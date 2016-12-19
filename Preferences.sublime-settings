@@ -1,7 +1,13 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/peacock (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night-Eighties (SL).tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		"bower_components",
+		"assets"
+	],
 	"font_face": "Consolas",
 	"font_size": 13,
 	"ignored_packages":
