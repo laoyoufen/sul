@@ -6,8 +6,11 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Agila Theme",
 		"Alignment",
 		"AutoFileName",
+		"ayu",
+		"Boxy Theme",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"DocBlockr",
@@ -16,6 +19,8 @@
 		"Git",
 		"HTML-CSS-JS Prettify",
 		"JavaScript Completions",
+		"JavaScript Snippets",
+		"Material Theme",
 		"Nodejs",
 		"Package Control",
 		"Pretty JSON",

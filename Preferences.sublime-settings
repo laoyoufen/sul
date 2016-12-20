@@ -1,12 +1,13 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
 		"node_modules",
 		"bower_components",
-		"assets"
+		"assets",
+		".git"
 	],
 	"font_face": "Consolas",
 	"font_size": 13,
@@ -14,6 +15,8 @@
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"tab_size": 2,
 	"theme": "Default.sublime-theme"
 }
