@@ -5,15 +5,19 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"Agila Theme",
 		"Alignment",
 		"AutoFileName",
 		"ayu",
+		"Bootstrap 3 Autocomplete",
 		"Boxy Theme",
 		"BracketHighlighter",
 		"ConvertToUTF8",
+		"CSS Completions",
 		"DocBlockr",
+		"Dracula Color Scheme",
 		"Emmet",
 		"ExpandRegion",
 		"Git",
@@ -22,15 +26,24 @@
 		"JavaScript Snippets",
 		"Material Theme",
 		"Nodejs",
+		"Nunjucks Syntax",
+		"One Dark Color Scheme",
 		"Package Control",
 		"Pretty JSON",
 		"SideBarEnhancements",
 		"Stylus",
+		"sublime-nunjucks",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
 		"Swig",
+		"SwigSnippets",
 		"Terminal",
+		"Theme - itg.flat",
 		"Tomorrow Color Schemes",
-		"zz File Icons"
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	],
+	"repositories":
+	[
 	]
 }
